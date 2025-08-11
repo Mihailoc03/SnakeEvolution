@@ -26,8 +26,7 @@ Eat food to grow longer. Avoid crashing into the walls or into yourself. The gam
 3. Run `Snake.exe` (or the executable file named in the ZIP).
 4. Play with **W A S D**.
 
-> If the executable is named `Snake.exe` in your build, use that name.  
-> If you renamed the build to `SnakeEvolution.exe`, run that instead.
+
 
 ---
 
@@ -47,8 +46,6 @@ Eat food to grow longer. Avoid crashing into the walls or into yourself. The gam
 
 ## Credits & Assets
 - Game, scripts, and UI: Mihailo Čepić
-- Graphics / sounds: included in `Assets/` (created or sourced from free assets).  
-  *(If you used any 3rd-party assets, list them here and their licenses.)*
 
 ---
 
