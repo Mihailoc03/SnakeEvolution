@@ -16,7 +16,7 @@ Eat food to grow longer. Avoid crashing into the walls or into yourself. The gam
 - Classic snake gameplay with a small twist (three food types: normal, bonus, slow).
 - Minimalistic 2D visuals and lightweight, fast gameplay loop.
 - Gradually increasing difficulty as you score.
-- High score tracking (local).
+- High score tracking.
 
 ---
 
