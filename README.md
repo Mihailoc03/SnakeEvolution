@@ -60,5 +60,5 @@ Eat food to grow longer. Avoid crashing into the walls or into yourself. The gam
 ---
 
 ## Contact
-If you need anything or want the project set up differently for testing, contact: **(your email or GitHub profile)**
+If you need anything or want the project set up differently for testing, contact: **(mihailo.cepic@gmail.com)**
 
