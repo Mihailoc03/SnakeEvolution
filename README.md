@@ -46,7 +46,7 @@ Eat food to grow longer. Avoid crashing into the walls or into yourself. The gam
 ---
 
 ## Credits & Assets
-- Game, scripts, and UI: **[Your Name]**  
+- Game, scripts, and UI: Mihailo Čepić
 - Graphics / sounds: included in `Assets/` (created or sourced from free assets).  
   *(If you used any 3rd-party assets, list them here and their licenses.)*
 
