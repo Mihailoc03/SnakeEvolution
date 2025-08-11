@@ -31,7 +31,7 @@ Eat food to grow longer. Avoid crashing into the walls or into yourself. The gam
 ---
 
 ## How to run from source (for reviewers / devs)
-1. Open the project folder in **Unity Editor** (use the same Unity version you developed with).
+1. Open the project folder in **Unity Editor**.
 2. Open the `Scenes/Snake` scene.
 3. Press Play in the Editor or build the project for your target platform.
 
